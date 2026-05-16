@@ -1,4 +1,4 @@
-# Mercatus
+# Mercatus (hackathon2026kmp20)
 
 Peer-to-peer barter marketplace for communities — exchange what you have, get what you need.
 
